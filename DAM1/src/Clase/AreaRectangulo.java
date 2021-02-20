@@ -29,6 +29,8 @@ public class AreaRectangulo {
 		double perimetro = 2 * (base + altura);
 		
 		System.out.println("El perimetro del rectangulo es: " + perimetro);
+		System.out.println("Hola mundo ");
+
 
 	}
 
